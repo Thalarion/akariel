@@ -2,7 +2,7 @@ files:
   - source: /locale/en_Bolt.json
     translation: /locale/%two_letters_code%_Bolt.json
   - source: /locale/en_Caesar.json
-    translation: /locale/%two_letters_code%_Caesar..json
+    translation: /locale/%two_letters_code%_Caesar.json
   - source: /locale/en_Delizia.json
     translation: /locale/%two_letters_code%_Delizia.json
   - source: /locale/en_Eckhart.json
